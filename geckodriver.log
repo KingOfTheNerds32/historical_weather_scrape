@@ -6225,3 +6225,1247 @@ IPDL protocol error: unknown union type
 
 ###!!! [Parent][MessageChannel] Error: (msgtype=0x2C0085,name=PBrowser::Msg_Destroy) Channel error: cannot send/recv
 
+1499126934342	geckodriver	INFO	Listening on 127.0.0.1:55741
+1499126935389	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1499126937637	Marionette	INFO	Listening on port 55750
+1499126937707	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-07-03 17:08:58.180 plugin-container[17147:971380] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9757, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:08:58.180 plugin-container[17147:971380] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x984f, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:08:58.180 plugin-container[17147:971380] Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 3: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 3: unreachable code after return statement
+1499126946798	Marionette	INFO	New connections will no longer be accepted
+1499126957334	geckodriver	INFO	Listening on 127.0.0.1:56024
+1499126958360	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1499126960215	Marionette	INFO	Listening on port 56034
+1499126960267	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-07-03 17:09:20.708 plugin-container[17154:972445] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x965b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:09:20.727 plugin-container[17154:972445] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x971b, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:09:20.727 plugin-container[17154:972445] Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 3: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 3: unreachable code after return statement
+JavaScript error: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 5: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+JavaScript error: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 5: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+1499126971676	Marionette	INFO	New connections will no longer be accepted
+1499126977402	geckodriver	INFO	Listening on 127.0.0.1:56388
+1499126978443	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1499126980347	Marionette	INFO	Listening on port 56399
+1499126980426	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-07-03 17:09:40.887 plugin-container[17159:973390] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9643, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:09:40.888 plugin-container[17159:973390] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9d1f, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:09:40.888 plugin-container[17159:973390] Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 3: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 3: unreachable code after return statement
+1499126986965	Marionette	INFO	New connections will no longer be accepted
+1499126992064	geckodriver	INFO	Listening on 127.0.0.1:56614
+1499126993098	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1499126995334	Marionette	INFO	Listening on port 56624
+1499126995400	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-07-03 17:09:55.820 plugin-container[17164:974211] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9657, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:09:55.820 plugin-container[17164:974211] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x4d1f, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:09:55.820 plugin-container[17164:974211] Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 3: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 3: unreachable code after return statement
+JavaScript error: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 5: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+JavaScript error: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 5: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+JavaScript error: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 5: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+JavaScript error: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 11: TypeError: this.sendManager is undefined
+JavaScript error: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 11: TypeError: this.sendManager is undefined
+1499127011955	Marionette	INFO	New connections will no longer be accepted
+1499127019776	geckodriver	INFO	Listening on 127.0.0.1:56889
+1499127020793	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1499127022740	Marionette	INFO	Listening on port 56898
+1499127022797	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-07-03 17:10:23.261 plugin-container[17170:975186] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x965b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:10:23.261 plugin-container[17170:975186] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x4e1f, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:10:23.261 plugin-container[17170:975186] Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 3: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 3: unreachable code after return statement
+IPDL protocol error: unknown union type
+[Child 17170] ###!!! ABORT: IPDL error [PLayerTransactionChild]: "unknown union type". abort()ing as a result.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/ProtocolUtils.cpp, line 302
+[Child 17170] ###!!! ABORT: IPDL error [PLayerTransactionChild]: "unknown union type". abort()ing as a result.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/ProtocolUtils.cpp, line 302
+[Parent 17169] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 702
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x2C0085,name=PBrowser::Msg_Destroy) Channel error: cannot send/recv
+
+1499127037002	geckodriver	INFO	Listening on 127.0.0.1:57065
+1499127038032	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1499127039978	Marionette	INFO	Listening on port 57075
+1499127040036	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-07-03 17:10:40.465 plugin-container[17176:975668] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9953, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:10:40.465 plugin-container[17176:975668] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x4e1b, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:10:40.466 plugin-container[17176:975668] Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 3: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 3: unreachable code after return statement
+JavaScript error: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 5: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+JavaScript error: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 5: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+1499127047790	Marionette	INFO	New connections will no longer be accepted
+[Child 17176] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 702
+[Child 17176] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 702
+1499127054406	geckodriver	INFO	Listening on 127.0.0.1:57347
+1499127055435	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1499127057283	Marionette	INFO	Listening on port 57356
+1499127057327	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-07-03 17:10:57.763 plugin-container[17181:976596] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9857, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:10:57.764 plugin-container[17181:976596] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x4f1f, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:10:57.764 plugin-container[17181:976596] Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 3: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 3: unreachable code after return statement
+JavaScript error: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 11: TypeError: this.sendManager is undefined
+JavaScript error: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 11: TypeError: this.sendManager is undefined
+1499127073175	Marionette	INFO	New connections will no longer be accepted
+1499127117359	geckodriver	INFO	Listening on 127.0.0.1:57662
+1499127118406	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1499127120800	Marionette	INFO	Listening on port 57671
+1499127120859	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-07-03 17:12:01.307 plugin-container[17194:978209] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x953f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:12:01.307 plugin-container[17194:978209] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9d0b, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:12:01.307 plugin-container[17194:978209] Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1499127128815	Marionette	INFO	New connections will no longer be accepted
+[Child 17194] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 702
+1499127188616	geckodriver	INFO	Listening on 127.0.0.1:57899
+1499127189656	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1499127197041	Marionette	INFO	Listening on port 57909
+1499127197162	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-07-03 17:13:17.753 plugin-container[17205:979966] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9643, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:13:17.753 plugin-container[17205:979966] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9a17, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:13:17.753 plugin-container[17205:979966] Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 80: NS_ERROR_XPC_GS_RETURNED_FAILURE: Component returned failure code: 0x80570016 (NS_ERROR_XPC_GS_RETURNED_FAILURE) [nsIJSCID.getService]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 80: NS_ERROR_XPC_GS_RETURNED_FAILURE: Component returned failure code: 0x80570016 (NS_ERROR_XPC_GS_RETURNED_FAILURE) [nsIJSCID.getService]
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 3: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 3: unreachable code after return statement
+JavaScript error: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 5: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+JavaScript error: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 5: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+1499127205649	Marionette	INFO	New connections will no longer be accepted
+1499127220346	geckodriver	INFO	Listening on 127.0.0.1:58287
+1499127221355	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1499127223439	Marionette	INFO	Listening on port 58296
+1499127223548	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-07-03 17:13:43.963 plugin-container[17211:981200] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9657, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:13:43.964 plugin-container[17211:981200] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x4c1b, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:13:43.964 plugin-container[17211:981200] Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 3: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 3: unreachable code after return statement
+JavaScript error: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 5: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+JavaScript error: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 5: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+JavaScript error: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 5: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+IPDL protocol error: unknown union type
+[Child 17211] ###!!! ABORT: IPDL error [PLayerTransactionChild]: "unknown union type". abort()ing as a result.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/ProtocolUtils.cpp, line 302
+[Child 17211] ###!!! ABORT: IPDL error [PLayerTransactionChild]: "unknown union type". abort()ing as a result.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/ProtocolUtils.cpp, line 302
+[Parent 17210] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 702
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x800011,name=PHttpChannel::Msg_OnStartRequest) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x800013,name=PHttpChannel::Msg_OnStopRequest) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x800015,name=PHttpChannel::Msg_OnStatus) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x800015,name=PHttpChannel::Msg_OnStatus) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x2C0085,name=PBrowser::Msg_Destroy) Channel error: cannot send/recv
+
+1499127318875	geckodriver	INFO	Listening on 127.0.0.1:58895
+1499127319936	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1499127322250	Marionette	INFO	Listening on port 58908
+1499127322335	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-07-03 17:15:22.804 plugin-container[17228:982680] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x974f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:15:22.805 plugin-container[17228:982680] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x4e1f, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:15:22.805 plugin-container[17228:982680] Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 3: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 3: unreachable code after return statement
+JavaScript error: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 5: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+1499127330407	Marionette	INFO	New connections will no longer be accepted
+[Child 17228] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 702
+1499127356262	geckodriver	INFO	Listening on 127.0.0.1:59262
+1499127357308	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1499127360065	Marionette	INFO	Listening on port 59271
+1499127360171	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-07-03 17:16:00.726 plugin-container[17237:983917] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x4e3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:16:00.727 plugin-container[17237:983917] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x971f, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:16:00.727 plugin-container[17237:983917] Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 3: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 3: unreachable code after return statement
+JavaScript error: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 5: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+JavaScript error: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 5: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+1499127372373	Marionette	INFO	New connections will no longer be accepted
+1499127438670	geckodriver	INFO	Listening on 127.0.0.1:59837
+1499127439778	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1499127442225	Marionette	INFO	Listening on port 59849
+1499127442303	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-07-03 17:17:22.792 plugin-container[17256:985574] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9757, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:17:22.793 plugin-container[17256:985574] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9d23, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:17:22.793 plugin-container[17256:985574] Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 3: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 3: unreachable code after return statement
+JavaScript error: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 5: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+JavaScript error: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 5: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+[GFX1-]: Failed to create a SkiaGL DrawTarget, falling back to software
+
+JavaScript error: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 11: TypeError: this.sendManager is undefined
+1499127461749	Marionette	INFO	New connections will no longer be accepted
+[Child 17256] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 702
+1499127461981	geckodriver	INFO	Listening on 127.0.0.1:60336
+1499127462997	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1499127464904	Marionette	INFO	Listening on port 60345
+1499127464983	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-07-03 17:17:45.442 plugin-container[17265:986711] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x965b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:17:45.455 plugin-container[17265:986711] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x971f, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:17:45.455 plugin-container[17265:986711] Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 3: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 3: unreachable code after return statement
+JavaScript error: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 11: TypeError: this.sendManager is undefined
+1499127475689	Marionette	INFO	New connections will no longer be accepted
+[Child 17265] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 702
+1499127475909	geckodriver	INFO	Listening on 127.0.0.1:60578
+1499127476933	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1499127478792	Marionette	INFO	Listening on port 60588
+1499127478842	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-07-03 17:17:59.320 plugin-container[17273:987621] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x953f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:17:59.320 plugin-container[17273:987621] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9d23, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:17:59.320 plugin-container[17273:987621] Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 3: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 3: unreachable code after return statement
+[GFX1-]: Failed to create a SkiaGL DrawTarget, falling back to software
+
+JavaScript error: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 11: TypeError: this.sendManager is undefined
+1499127489379	Marionette	INFO	New connections will no longer be accepted
+[Child 17273] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 702
+1499127489584	geckodriver	INFO	Listening on 127.0.0.1:60837
+1499127490607	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1499127492437	Marionette	INFO	Listening on port 60848
+1499127492500	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-07-03 17:18:12.968 plugin-container[17279:988440] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9643, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:18:12.968 plugin-container[17279:988440] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x4f37, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:18:12.968 plugin-container[17279:988440] Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 3: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 3: unreachable code after return statement
+[GFX1-]: Failed to create a SkiaGL DrawTarget, falling back to software
+
+JavaScript error: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 5: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+JavaScript error: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 5: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+1499127504887	Marionette	INFO	New connections will no longer be accepted
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1499127505152	geckodriver	INFO	Listening on 127.0.0.1:61153
+1499127506175	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1499127508143	Marionette	INFO	Listening on port 61162
+1499127508252	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-07-03 17:18:28.647 plugin-container[17284:989251] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9847, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:18:28.648 plugin-container[17284:989251] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x4f0f, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:18:28.648 plugin-container[17284:989251] Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 3: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 3: unreachable code after return statement
+[GFX1-]: Failed to create a SkiaGL DrawTarget, falling back to software
+
+1499127518968	Marionette	INFO	New connections will no longer be accepted
+1499127519243	geckodriver	INFO	Listening on 127.0.0.1:61398
+1499127520257	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1499127522159	Marionette	INFO	Listening on port 61409
+1499127522252	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-07-03 17:18:42.681 plugin-container[17289:990131] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9853, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:18:42.682 plugin-container[17289:990131] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x4f17, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:18:42.682 plugin-container[17289:990131] Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 3: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 3: unreachable code after return statement
+[GFX1-]: Failed to create a SkiaGL DrawTarget, falling back to software
+
+JavaScript error: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 11: TypeError: this.sendManager is undefined
+1499127532801	Marionette	INFO	New connections will no longer be accepted
+1499127533045	geckodriver	INFO	Listening on 127.0.0.1:61648
+1499127534067	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1499127535980	Marionette	INFO	Listening on port 61657
+1499127536070	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-07-03 17:18:56.484 plugin-container[17295:991081] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9753, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:18:56.484 plugin-container[17295:991081] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x501f, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:18:56.484 plugin-container[17295:991081] Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 3: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 3: unreachable code after return statement
+[GFX1-]: Failed to create a SkiaGL DrawTarget, falling back to software
+
+IPDL protocol error: unknown union type
+[Child 17295] ###!!! ABORT: IPDL error [PLayerTransactionChild]: "unknown union type". abort()ing as a result.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/ProtocolUtils.cpp, line 302
+[Child 17295] ###!!! ABORT: IPDL error [PLayerTransactionChild]: "unknown union type". abort()ing as a result.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/ProtocolUtils.cpp, line 302
+[Parent 17294] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 702
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x2C0085,name=PBrowser::Msg_Destroy) Channel error: cannot send/recv
+
+1499127554531	geckodriver	INFO	Listening on 127.0.0.1:61830
+1499127555580	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1499127557456	Marionette	INFO	Listening on port 61841
+1499127557566	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-07-03 17:19:17.931 plugin-container[17301:991565] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9a4f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:19:17.931 plugin-container[17301:991565] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x4f1b, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:19:17.931 plugin-container[17301:991565] Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 3: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 3: unreachable code after return statement
+JavaScript error: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 5: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+1499127565814	Marionette	INFO	New connections will no longer be accepted
+[Child 17301] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 702
+1499127588767	geckodriver	INFO	Listening on 127.0.0.1:62148
+1499127589806	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1499127591714	Marionette	INFO	Listening on port 62157
+1499127591776	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-07-03 17:19:52.192 plugin-container[17306:992722] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x4c47, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:19:52.193 plugin-container[17306:992722] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9d07, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:19:52.193 plugin-container[17306:992722] Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1499127599006	Marionette	INFO	New connections will no longer be accepted
+1499127636881	geckodriver	INFO	Listening on 127.0.0.1:62506
+1499127637955	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1499127640203	Marionette	INFO	Listening on port 62516
+1499127640264	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-07-03 17:20:40.706 plugin-container[17325:994125] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x953f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:20:40.706 plugin-container[17325:994125] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x4f1b, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:20:40.706 plugin-container[17325:994125] Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 3: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 3: unreachable code after return statement
+[GFX1-]: Failed to create a SkiaGL DrawTarget, falling back to software
+
+JavaScript error: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 5: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+1499127653646	Marionette	INFO	New connections will no longer be accepted
+1499127653903	geckodriver	INFO	Listening on 127.0.0.1:62895
+1499127654935	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1499127656900	Marionette	INFO	Listening on port 62904
+1499127657012	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-07-03 17:20:57.395 plugin-container[17331:995107] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x953f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:20:57.395 plugin-container[17331:995107] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x4f13, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:20:57.396 plugin-container[17331:995107] Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1499127665858	Marionette	INFO	New connections will no longer be accepted
+[Child 17331] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 702
+1499127666078	geckodriver	INFO	Listening on 127.0.0.1:63124
+1499127667095	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1499127668993	Marionette	INFO	Listening on port 63135
+1499127669083	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-07-03 17:21:09.486 plugin-container[17338:995880] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9753, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:21:09.486 plugin-container[17338:995880] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x501b, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:21:09.486 plugin-container[17338:995880] Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 3: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 3: unreachable code after return statement
+[GFX1-]: Failed to create a SkiaGL DrawTarget, falling back to software
+
+1499127681294	Marionette	INFO	New connections will no longer be accepted
+1499127681543	geckodriver	INFO	Listening on 127.0.0.1:63420
+1499127682573	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1499127684453	Marionette	INFO	Listening on port 63432
+1499127684549	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-07-03 17:21:24.983 plugin-container[17343:996782] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9657, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:21:24.983 plugin-container[17343:996782] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x4f17, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:21:24.983 plugin-container[17343:996782] Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 3: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 3: unreachable code after return statement
+[GFX1-]: Failed to create a SkiaGL DrawTarget, falling back to software
+
+JavaScript error: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 5: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+JavaScript error: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 5: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+JavaScript error: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 5: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+JavaScript error: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 11: TypeError: this.sendManager is undefined
+1499127700045	Marionette	INFO	New connections will no longer be accepted
+[Child 17343] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 702
+1499127700307	geckodriver	INFO	Listening on 127.0.0.1:63822
+1499127701337	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1499127703181	Marionette	INFO	Listening on port 63833
+1499127703234	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-07-03 17:21:43.704 plugin-container[17348:997601] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9543, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:21:43.704 plugin-container[17348:997601] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x4f13, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:21:43.704 plugin-container[17348:997601] Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 3: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 3: unreachable code after return statement
+[GFX1-]: Failed to create a SkiaGL DrawTarget, falling back to software
+
+JavaScript error: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 5: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+JavaScript error: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 5: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+1499127715708	Marionette	INFO	New connections will no longer be accepted
+[Child 17348] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 702
+1499127715964	geckodriver	INFO	Listening on 127.0.0.1:64145
+1499127716981	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1499127718883	Marionette	INFO	Listening on port 64154
+1499127718966	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-07-03 17:21:59.418 plugin-container[17353:998454] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9743, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:21:59.419 plugin-container[17353:998454] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x5013, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:21:59.419 plugin-container[17353:998454] Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 3: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 3: unreachable code after return statement
+[GFX1-]: Failed to create a SkiaGL DrawTarget, falling back to software
+
+JavaScript error: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 5: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+1499127731447	Marionette	INFO	New connections will no longer be accepted
+1499127731649	geckodriver	INFO	Listening on 127.0.0.1:64429
+1499127732655	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1499127734482	Marionette	INFO	Listening on port 64440
+1499127734547	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-07-03 17:22:15.022 plugin-container[17359:999485] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x964f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:22:15.023 plugin-container[17359:999485] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x4e1f, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:22:15.023 plugin-container[17359:999485] Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 3: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 3: unreachable code after return statement
+[GFX1-]: Failed to create a SkiaGL DrawTarget, falling back to software
+
+JavaScript error: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 11: TypeError: this.sendManager is undefined
+1499127745006	Marionette	INFO	New connections will no longer be accepted
+[Child 17359] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 702
+1499127745244	geckodriver	INFO	Listening on 127.0.0.1:64682
+1499127746264	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1499127748119	Marionette	INFO	Listening on port 64692
+1499127748181	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-07-03 17:22:28.628 plugin-container[17366:1000291] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9637, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:22:28.629 plugin-container[17366:1000291] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9a23, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:22:28.629 plugin-container[17366:1000291] Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 3: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 3: unreachable code after return statement
+[GFX1-]: Failed to create a SkiaGL DrawTarget, falling back to software
+
+JavaScript error: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 5: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+IPDL protocol error: unknown union type
+[Child 17366] ###!!! ABORT: IPDL error [PLayerTransactionChild]: "unknown union type". abort()ing as a result.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/ProtocolUtils.cpp, line 302
+[Child 17366] ###!!! ABORT: IPDL error [PLayerTransactionChild]: "unknown union type". abort()ing as a result.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/ProtocolUtils.cpp, line 302
+[Parent 17365] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 702
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x2C0085,name=PBrowser::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositorBridge::Msg_DidComposite) Channel error: cannot send/recv
+
+1499127817679	geckodriver	INFO	Listening on 127.0.0.1:65061
+1499127818719	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1499127821753	Marionette	INFO	Listening on port 65070
+1499127821895	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-07-03 17:23:42.886 plugin-container[17399:1001763] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9543, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:23:42.887 plugin-container[17399:1001763] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x4f13, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:23:42.887 plugin-container[17399:1001763] Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 3: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 3: unreachable code after return statement
+[GFX1-]: Failed to create a SkiaGL DrawTarget, falling back to software
+
+JavaScript error: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 11: TypeError: this.sendManager is undefined
+JavaScript error: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 11: TypeError: this.sendManager is undefined
+1499127838736	Marionette	INFO	New connections will no longer be accepted
+1499127839038	geckodriver	INFO	Listening on 127.0.0.1:65402
+1499127840051	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1499127841921	Marionette	INFO	Listening on port 65413
+1499127841970	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-07-03 17:24:02.393 plugin-container[17417:1003038] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9433, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:24:02.393 plugin-container[17417:1003038] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x4d1f, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:24:02.393 plugin-container[17417:1003038] Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 3: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 3: unreachable code after return statement
+IPDL protocol error: unknown union type
+[Child 17417] ###!!! ABORT: IPDL error [PLayerTransactionChild]: "unknown union type". abort()ing as a result.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/ProtocolUtils.cpp, line 302
+[Child 17417] ###!!! ABORT: IPDL error [PLayerTransactionChild]: "unknown union type". abort()ing as a result.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/ProtocolUtils.cpp, line 302
+[Parent 17416] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 702
+[Parent 17416] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 702
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x2C0085,name=PBrowser::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositorBridge::Msg_DidComposite) Channel error: cannot send/recv
+
+1499127949125	geckodriver	INFO	Listening on 127.0.0.1:49381
+1499127950194	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1499127952895	Marionette	INFO	Listening on port 49390
+1499127952971	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-07-03 17:25:53.695 plugin-container[17488:1006190] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9853, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:25:53.696 plugin-container[17488:1006190] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x4e1f, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:25:53.696 plugin-container[17488:1006190] Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 3: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 3: unreachable code after return statement
+[GFX1-]: Failed to create a SkiaGL DrawTarget, falling back to software
+
+JavaScript error: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 5: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+1499127966547	Marionette	INFO	New connections will no longer be accepted
+1499127966835	geckodriver	INFO	Listening on 127.0.0.1:49715
+1499127967845	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1499127969680	Marionette	INFO	Listening on port 49728
+1499127969743	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-07-03 17:26:10.208 plugin-container[17495:1007222] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x953f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:26:10.209 plugin-container[17495:1007222] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9c17, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:26:10.209 plugin-container[17495:1007222] Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 3: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 3: unreachable code after return statement
+JavaScript error: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 11: TypeError: this.sendManager is undefined
+1499127982231	Marionette	INFO	New connections will no longer be accepted
+[Child 17495] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 702
+1499127982489	geckodriver	INFO	Listening on 127.0.0.1:49984
+1499127983511	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1499127985363	Marionette	INFO	Listening on port 49993
+1499127985426	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-07-03 17:26:25.921 plugin-container[17500:1008098] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9757, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:26:25.922 plugin-container[17500:1008098] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9913, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:26:25.922 plugin-container[17500:1008098] Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+[GFX1-]: Failed to create a SkiaGL DrawTarget, falling back to software
+
+1499127995155	Marionette	INFO	New connections will no longer be accepted
+1499127995417	geckodriver	INFO	Listening on 127.0.0.1:50192
+1499127996440	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1499127998271	Marionette	INFO	Listening on port 50204
+1499127998342	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-07-03 17:26:38.797 plugin-container[17504:1008865] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9953, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:26:38.807 plugin-container[17504:1008865] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x4d1f, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:26:38.807 plugin-container[17504:1008865] Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 3: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 3: unreachable code after return statement
+[GFX1-]: Failed to create a SkiaGL DrawTarget, falling back to software
+
+JavaScript error: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 11: TypeError: this.sendManager is undefined
+1499128013070	Marionette	INFO	New connections will no longer be accepted
+[Child 17504] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 702
+1499128013292	geckodriver	INFO	Listening on 127.0.0.1:50574
+1499128014316	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1499128016240	Marionette	INFO	Listening on port 50588
+1499128016294	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-07-03 17:26:56.773 plugin-container[17509:1009934] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9643, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:26:56.774 plugin-container[17509:1009934] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x4f17, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:26:56.774 plugin-container[17509:1009934] Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 3: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 3: unreachable code after return statement
+[GFX1-]: Failed to create a SkiaGL DrawTarget, falling back to software
+
+JavaScript error: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 11: TypeError: this.sendManager is undefined
+1499128027363	Marionette	INFO	New connections will no longer be accepted
+[Child 17509] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 702
+1499128027608	geckodriver	INFO	Listening on 127.0.0.1:50823
+1499128028625	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1499128030470	Marionette	INFO	Listening on port 50832
+1499128030533	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-07-03 17:27:10.992 plugin-container[17515:1011006] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9647, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:27:10.994 plugin-container[17515:1011006] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9b17, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:27:10.994 plugin-container[17515:1011006] Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+[GFX1-]: Failed to create a SkiaGL DrawTarget, falling back to software
+
+1499128040581	Marionette	INFO	New connections will no longer be accepted
+1499128040814	geckodriver	INFO	Listening on 127.0.0.1:51039
+1499128041842	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1499128043653	Marionette	INFO	Listening on port 51052
+1499128043718	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-07-03 17:27:24.168 plugin-container[17520:1011938] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x985f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:27:24.168 plugin-container[17520:1011938] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x4e1b, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:27:24.168 plugin-container[17520:1011938] Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 3: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 3: unreachable code after return statement
+[GFX1-]: Failed to create a SkiaGL DrawTarget, falling back to software
+
+JavaScript error: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 5: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+JavaScript error: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 5: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+JavaScript error: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 11: TypeError: this.sendManager is undefined
+1499128060814	Marionette	INFO	New connections will no longer be accepted
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1499128061023	geckodriver	INFO	Listening on 127.0.0.1:51449
+1499128062050	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1499128063938	Marionette	INFO	Listening on port 51458
+1499128064028	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-07-03 17:27:44.460 plugin-container[17529:1013082] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x963f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:27:44.461 plugin-container[17529:1013082] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9d2b, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:27:44.461 plugin-container[17529:1013082] Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+[GFX1-]: Failed to create a SkiaGL DrawTarget, falling back to software
+
+1499128074468	Marionette	INFO	New connections will no longer be accepted
+[Child 17529] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 702
+1499128074719	geckodriver	INFO	Listening on 127.0.0.1:51687
+1499128075742	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1499128078238	Marionette	INFO	Listening on port 51696
+1499128078345	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-07-03 17:27:58.888 plugin-container[17533:1013794] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9543, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:27:58.889 plugin-container[17533:1013794] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x4f13, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:27:58.890 plugin-container[17533:1013794] Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 3: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 3: unreachable code after return statement
+[GFX1-]: Failed to create a SkiaGL DrawTarget, falling back to software
+
+JavaScript error: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 11: TypeError: this.sendManager is undefined
+1499128093467	Marionette	INFO	New connections will no longer be accepted
+1499128093782	geckodriver	INFO	Listening on 127.0.0.1:52056
+1499128094796	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1499128096791	Marionette	INFO	Listening on port 52066
+1499128096885	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-07-03 17:28:17.307 plugin-container[17542:1014721] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x995f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:28:17.308 plugin-container[17542:1014721] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x4d1f, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:28:17.308 plugin-container[17542:1014721] Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 3: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 3: unreachable code after return statement
+[GFX1-]: Failed to create a SkiaGL DrawTarget, falling back to software
+
+JavaScript error: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 11: TypeError: this.sendManager is undefined
+JavaScript error: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 11: TypeError: this.sendManager is undefined
+1499128112447	Marionette	INFO	New connections will no longer be accepted
+1499128112728	geckodriver	INFO	Listening on 127.0.0.1:52418
+1499128113769	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1499128115719	Marionette	INFO	Listening on port 52428
+1499128115773	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-07-03 17:28:36.293 plugin-container[17548:1015627] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9543, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:28:36.294 plugin-container[17548:1015627] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x971f, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:28:36.294 plugin-container[17548:1015627] Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+[GFX1-]: Failed to create a SkiaGL DrawTarget, falling back to software
+
+1499128125851	Marionette	INFO	New connections will no longer be accepted
+[Child 17548] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 702
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1499128126119	geckodriver	INFO	Listening on 127.0.0.1:52662
+1499128127135	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1499128129003	Marionette	INFO	Listening on port 52673
+1499128129111	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-07-03 17:28:49.510 plugin-container[17552:1016347] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9753, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:28:49.511 plugin-container[17552:1016347] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x4f1f, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:28:49.511 plugin-container[17552:1016347] Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+[GFX1-]: Failed to create a SkiaGL DrawTarget, falling back to software
+
+1499128139716	Marionette	INFO	New connections will no longer be accepted
+[Child 17552] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 702
+1499128197949	geckodriver	INFO	Listening on 127.0.0.1:52951
+1499128198992	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1499128201249	Marionette	INFO	Listening on port 52960
+1499128201316	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-07-03 17:30:01.857 plugin-container[17561:1017974] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9657, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:30:01.858 plugin-container[17561:1017974] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x973b, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:30:01.858 plugin-container[17561:1017974] Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 3: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 3: unreachable code after return statement
+1499128214996	Marionette	INFO	New connections will no longer be accepted
+1499128243464	geckodriver	INFO	Listening on 127.0.0.1:53369
+1499128244479	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1499128246281	Marionette	INFO	Listening on port 53378
+1499128246358	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-07-03 17:30:46.803 plugin-container[17583:1019341] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9643, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:30:46.804 plugin-container[17583:1019341] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9d2b, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:30:46.804 plugin-container[17583:1019341] Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 3: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 3: unreachable code after return statement
+JavaScript error: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 11: TypeError: this.sendManager is undefined
+1499128256477	Marionette	INFO	New connections will no longer be accepted
+[Child 17583] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 702
+1499128412186	geckodriver	INFO	Listening on 127.0.0.1:53962
+1499128413261	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1499128415546	Marionette	INFO	Listening on port 53971
+1499128415603	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-07-03 17:33:36.058 plugin-container[17662:1022961] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9657, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:33:36.058 plugin-container[17662:1022961] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x4e17, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:33:36.058 plugin-container[17662:1022961] Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 3: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 3: unreachable code after return statement
+[GFX1-]: Failed to create a SkiaGL DrawTarget, falling back to software
+
+IPDL protocol error: unknown union type
+[Child 17662] ###!!! ABORT: IPDL error [PLayerTransactionChild]: "unknown union type". abort()ing as a result.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/ProtocolUtils.cpp, line 302
+[Child 17662] ###!!! ABORT: IPDL error [PLayerTransactionChild]: "unknown union type". abort()ing as a result.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/ProtocolUtils.cpp, line 302
+[Parent 17660] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 702
+[Parent 17660] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 702
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x2C0085,name=PBrowser::Msg_Destroy) Channel error: cannot send/recv
+
+1499128448437	geckodriver	INFO	Listening on 127.0.0.1:54225
+1499128449502	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1499128451932	Marionette	INFO	Listening on port 54235
+1499128452015	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-07-03 17:34:12.515 plugin-container[17707:1024195] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9643, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:34:12.515 plugin-container[17707:1024195] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9d23, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:34:12.516 plugin-container[17707:1024195] Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 3: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 3: unreachable code after return statement
+[GFX1-]: Failed to create a SkiaGL DrawTarget, falling back to software
+
+JavaScript error: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 11: TypeError: this.sendManager is undefined
+1499128462656	Marionette	INFO	New connections will no longer be accepted
+[Child 17707] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 702
+1499128462949	geckodriver	INFO	Listening on 127.0.0.1:54479
+1499128463961	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1499128465768	Marionette	INFO	Listening on port 54489
+1499128465837	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-07-03 17:34:26.269 plugin-container[17724:1025242] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x974f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:34:26.269 plugin-container[17724:1025242] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x4e1b, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:34:26.270 plugin-container[17724:1025242] Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 3: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 3: unreachable code after return statement
+[GFX1-]: Failed to create a SkiaGL DrawTarget, falling back to software
+
+JavaScript error: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 5: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+JavaScript error: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 5: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+JavaScript error: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 5: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+JavaScript error: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 5: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+1499128479565	Marionette	INFO	New connections will no longer be accepted
+1499128479837	geckodriver	INFO	Listening on 127.0.0.1:54880
+1499128480891	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1499128482790	Marionette	INFO	Listening on port 54889
+1499128482851	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-07-03 17:34:43.289 plugin-container[17737:1026200] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x4b3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:34:43.290 plugin-container[17737:1026200] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9c0f, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:34:43.290 plugin-container[17737:1026200] Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 3: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 3: unreachable code after return statement
+[GFX1-]: Failed to create a SkiaGL DrawTarget, falling back to software
+
+JavaScript error: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 5: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+JavaScript error: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 5: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+JavaScript error: https://dtm.advertising.com/ids/411f1e96-3bde-4d85-b17e-63749e5f0695?secure=true, line 1: TypeError: win.location is null
+1499128495106	Marionette	INFO	New connections will no longer be accepted
+1499128495412	geckodriver	INFO	Listening on 127.0.0.1:55225
+1499128496436	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1499128498291	Marionette	INFO	Listening on port 55235
+1499128498342	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-07-03 17:34:58.793 plugin-container[17743:1027244] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x985f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:34:58.793 plugin-container[17743:1027244] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9a1f, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:34:58.793 plugin-container[17743:1027244] Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+[GFX1-]: Failed to create a SkiaGL DrawTarget, falling back to software
+
+1499128510969	Marionette	INFO	New connections will no longer be accepted
+1499128511252	geckodriver	INFO	Listening on 127.0.0.1:55567
+1499128512286	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1499128514107	Marionette	INFO	Listening on port 55577
+1499128514179	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-07-03 17:35:14.608 plugin-container[17752:1028083] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9753, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:35:14.609 plugin-container[17752:1028083] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x5017, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:35:14.609 plugin-container[17752:1028083] Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 3: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 3: unreachable code after return statement
+[GFX1-]: Failed to create a SkiaGL DrawTarget, falling back to software
+
+JavaScript error: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 5: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+JavaScript error: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 5: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+JavaScript error: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 5: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+JavaScript error: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 11: TypeError: this.sendManager is undefined
+1499128530765	Marionette	INFO	New connections will no longer be accepted
+[Child 17752] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 702
+1499128530967	geckodriver	INFO	Listening on 127.0.0.1:55986
+1499128531978	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1499128533986	Marionette	INFO	Listening on port 55995
+1499128534054	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-07-03 17:35:34.490 plugin-container[17774:1029349] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9643, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:35:34.490 plugin-container[17774:1029349] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x4e13, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:35:34.491 plugin-container[17774:1029349] Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 3: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 3: unreachable code after return statement
+[GFX1-]: Failed to create a SkiaGL DrawTarget, falling back to software
+
+JavaScript error: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 5: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+1499128550999	Marionette	INFO	New connections will no longer be accepted
+[Child 17774] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 702
+1499128551217	geckodriver	INFO	Listening on 127.0.0.1:56390
+1499128552244	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1499128554133	Marionette	INFO	Listening on port 56400
+1499128554228	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-07-03 17:35:54.653 plugin-container[17786:1030384] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x4d3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:35:54.653 plugin-container[17786:1030384] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9c27, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:35:54.653 plugin-container[17786:1030384] Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 3: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 3: unreachable code after return statement
+[GFX1-]: Failed to create a SkiaGL DrawTarget, falling back to software
+
+JavaScript error: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 5: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+JavaScript error: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 5: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+JavaScript error: https://dtm.advertising.com/ids/411f1e96-3bde-4d85-b17e-63749e5f0695?secure=true, line 1: TypeError: win.location is null
+1499128567892	Marionette	INFO	New connections will no longer be accepted
+[Child 17786] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 702
+1499128568088	geckodriver	INFO	Listening on 127.0.0.1:56733
+1499128569117	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1499128571016	Marionette	INFO	Listening on port 56746
+1499128571106	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-07-03 17:36:11.504 plugin-container[17792:1031218] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9657, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:36:11.505 plugin-container[17792:1031218] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x4f0f, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:36:11.505 plugin-container[17792:1031218] Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+[GFX1-]: Failed to create a SkiaGL DrawTarget, falling back to software
+
+1499128583310	Marionette	INFO	New connections will no longer be accepted
+1499128583533	geckodriver	INFO	Listening on 127.0.0.1:57077
+1499128584599	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1499128586518	Marionette	INFO	Listening on port 57088
+1499128586585	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-07-03 17:36:27.057 plugin-container[17796:1031930] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9953, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:36:27.058 plugin-container[17796:1031930] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x4f13, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:36:27.058 plugin-container[17796:1031930] Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 3: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 3: unreachable code after return statement
+[GFX1-]: Failed to create a SkiaGL DrawTarget, falling back to software
+
+JavaScript error: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 11: TypeError: this.sendManager is undefined
+1499128597173	Marionette	INFO	New connections will no longer be accepted
+1499128597407	geckodriver	INFO	Listening on 127.0.0.1:57341
+1499128598420	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1499128600271	Marionette	INFO	Listening on port 57350
+1499128600320	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-07-03 17:36:40.775 plugin-container[17802:1032811] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x933f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:36:40.775 plugin-container[17802:1032811] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x4e13, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:36:40.775 plugin-container[17802:1032811] Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 3: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 3: unreachable code after return statement
+JavaScript error: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 11: TypeError: this.sendManager is undefined
+JavaScript error: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 11: TypeError: this.sendManager is undefined
+JavaScript error: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 11: TypeError: this.sendManager is undefined
+JavaScript error: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 11: TypeError: this.sendManager is undefined
+[GFX1-]: Failed to create a SkiaGL DrawTarget, falling back to software
+
+JavaScript error: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 11: TypeError: this.sendManager is undefined
+1499128649619	Marionette	INFO	New connections will no longer be accepted
+1499128649929	geckodriver	INFO	Listening on 127.0.0.1:57950
+1499128650971	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1499128653395	Marionette	INFO	Listening on port 57959
+1499128653468	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-07-03 17:37:33.966 plugin-container[17815:1034066] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x985b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:37:33.967 plugin-container[17815:1034066] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x4c1f, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:37:33.967 plugin-container[17815:1034066] Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 3: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 3: unreachable code after return statement
+[GFX1-]: Failed to create a SkiaGL DrawTarget, falling back to software
+
+IPDL protocol error: unknown union type
+[Child 17815] ###!!! ABORT: IPDL error [PLayerTransactionChild]: "unknown union type". abort()ing as a result.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/ProtocolUtils.cpp, line 302
+[Child 17815] ###!!! ABORT: IPDL error [PLayerTransactionChild]: "unknown union type". abort()ing as a result.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/ProtocolUtils.cpp, line 302
+[Parent 17814] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 702
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x2C0085,name=PBrowser::Msg_Destroy) Channel error: cannot send/recv
+
+1499128714489	geckodriver	INFO	Listening on 127.0.0.1:58237
+1499128715530	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1499128717763	Marionette	INFO	Listening on port 58246
+1499128717839	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-07-03 17:38:38.300 plugin-container[17840:1035151] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9543, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:38:38.301 plugin-container[17840:1035151] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9c27, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:38:38.301 plugin-container[17840:1035151] Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 3: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 3: unreachable code after return statement
+[GFX1-]: Failed to create a SkiaGL DrawTarget, falling back to software
+
+JavaScript error: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 5: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+JavaScript error: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 5: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+JavaScript error: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 5: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+1499128731568	Marionette	INFO	New connections will no longer be accepted
+1499128731844	geckodriver	INFO	Listening on 127.0.0.1:58599
+1499128732888	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1499128734719	Marionette	INFO	Listening on port 58608
+1499128734777	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-07-03 17:38:55.203 plugin-container[17850:1036352] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9643, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:38:55.203 plugin-container[17850:1036352] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9d23, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:38:55.204 plugin-container[17850:1036352] Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 3: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 3: unreachable code after return statement
+[GFX1-]: Failed to create a SkiaGL DrawTarget, falling back to software
+
+JavaScript error: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 11: TypeError: this.sendManager is undefined
+JavaScript error: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 11: TypeError: this.sendManager is undefined
+1499128779190	Marionette	INFO	New connections will no longer be accepted
+1499128779494	geckodriver	INFO	Listening on 127.0.0.1:59281
+1499128780536	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1499128782467	Marionette	INFO	Listening on port 59291
+1499128782533	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-07-03 17:39:42.965 plugin-container[17858:1037814] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9657, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:39:42.965 plugin-container[17858:1037814] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x4e1f, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:39:42.965 plugin-container[17858:1037814] Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 3: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 3: unreachable code after return statement
+[GFX1-]: Failed to create a SkiaGL DrawTarget, falling back to software
+
+JavaScript error: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 5: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+1499128794689	Marionette	INFO	New connections will no longer be accepted
+1499128794925	geckodriver	INFO	Listening on 127.0.0.1:59589
+1499128795937	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1499128797793	Marionette	INFO	Listening on port 59602
+1499128797848	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-07-03 17:39:58.325 plugin-container[17864:1038690] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x955b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:39:58.326 plugin-container[17864:1038690] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x4e1b, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:39:58.326 plugin-container[17864:1038690] Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 3: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 3: unreachable code after return statement
+[GFX1-]: Failed to create a SkiaGL DrawTarget, falling back to software
+
+JavaScript error: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 11: TypeError: this.sendManager is undefined
+1499128809223	Marionette	INFO	New connections will no longer be accepted
+[Child 17864] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 702
+1499128809421	geckodriver	INFO	Listening on 127.0.0.1:59847
+1499128810450	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1499128812347	Marionette	INFO	Listening on port 59857
+1499128812434	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-07-03 17:40:12.881 plugin-container[17871:1039512] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x4c4b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:40:12.882 plugin-container[17871:1039512] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9e0b, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:40:12.883 plugin-container[17871:1039512] Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 3: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 3: unreachable code after return statement
+[GFX1-]: Failed to create a SkiaGL DrawTarget, falling back to software
+
+JavaScript error: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 5: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+JavaScript error: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 5: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+JavaScript error: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 11: TypeError: this.sendManager is undefined
+1499128825605	Marionette	INFO	New connections will no longer be accepted
+1499128825853	geckodriver	INFO	Listening on 127.0.0.1:60144
+1499128826877	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1499128828971	Marionette	INFO	Listening on port 60153
+1499128829060	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-07-03 17:40:29.503 plugin-container[17878:1040398] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9757, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:40:29.504 plugin-container[17878:1040398] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x981b, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:40:29.504 plugin-container[17878:1040398] Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 3: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 3: unreachable code after return statement
+[GFX1-]: Failed to create a SkiaGL DrawTarget, falling back to software
+
+JavaScript error: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 11: TypeError: this.sendManager is undefined
+JavaScript error: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 11: TypeError: this.sendManager is undefined
+1499128846276	Marionette	INFO	New connections will no longer be accepted
+1499128846528	geckodriver	INFO	Listening on 127.0.0.1:60512
+1499128847556	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1499128849650	Marionette	INFO	Listening on port 60521
+1499128849749	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-07-03 17:40:50.206 plugin-container[17895:1041733] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9857, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:40:50.207 plugin-container[17895:1041733] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x4e1f, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:40:50.207 plugin-container[17895:1041733] Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 3: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 3: unreachable code after return statement
+[GFX1-]: Failed to create a SkiaGL DrawTarget, falling back to software
+
+JavaScript error: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 5: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+JavaScript error: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 11: TypeError: this.sendManager is undefined
+1499128862513	Marionette	INFO	New connections will no longer be accepted
+[Child 17895] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 702
+1499128862716	geckodriver	INFO	Listening on 127.0.0.1:60811
+1499128863728	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1499128865676	Marionette	INFO	Listening on port 60837
+1499128865734	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-07-03 17:41:06.191 plugin-container[17906:1042688] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x953f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:41:06.191 plugin-container[17906:1042688] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x4e43, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:41:06.191 plugin-container[17906:1042688] Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 3: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 3: unreachable code after return statement
+[GFX1-]: Failed to create a SkiaGL DrawTarget, falling back to software
+
+1499128874808	Marionette	INFO	New connections will no longer be accepted
+1499128875046	geckodriver	INFO	Listening on 127.0.0.1:61068
+1499128876076	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1499128877933	Marionette	INFO	Listening on port 61079
+1499128877983	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-07-03 17:41:18.446 plugin-container[17911:1043449] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9747, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:41:18.446 plugin-container[17911:1043449] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9c23, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:41:18.446 plugin-container[17911:1043449] Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 3: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 3: unreachable code after return statement
+[GFX1-]: Failed to create a SkiaGL DrawTarget, falling back to software
+
+JavaScript error: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 5: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+JavaScript error: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 11: TypeError: this.sendManager is undefined
+1499128888638	Marionette	INFO	New connections will no longer be accepted
+1499128888897	geckodriver	INFO	Listening on 127.0.0.1:61345
+1499128889925	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1499128891788	Marionette	INFO	Listening on port 61360
+1499128891896	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-07-03 17:41:32.275 plugin-container[17916:1044227] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9657, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:41:32.276 plugin-container[17916:1044227] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x4e1f, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:41:32.276 plugin-container[17916:1044227] Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 3: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 3: unreachable code after return statement
+[GFX1-]: Failed to create a SkiaGL DrawTarget, falling back to software
+
+1499128902269	Marionette	INFO	New connections will no longer be accepted
+[Child 17916] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 702
+1499128902475	geckodriver	INFO	Listening on 127.0.0.1:61594
+1499128903509	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1499128905329	Marionette	INFO	Listening on port 61604
+1499128905382	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-07-03 17:41:45.830 plugin-container[17923:1045100] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9537, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:41:45.831 plugin-container[17923:1045100] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x4e13, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:41:45.831 plugin-container[17923:1045100] Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 3: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 3: unreachable code after return statement
+[GFX1-]: Failed to create a SkiaGL DrawTarget, falling back to software
+
+JavaScript error: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 11: TypeError: this.sendManager is undefined
+1499128919421	Marionette	INFO	New connections will no longer be accepted
+[Child 17923] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 702
+1499128919670	geckodriver	INFO	Listening on 127.0.0.1:61975
+1499128920705	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1499128922628	Marionette	INFO	Listening on port 61986
+1499128922691	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-07-03 17:42:03.121 plugin-container[17930:1046022] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9753, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:42:03.130 plugin-container[17930:1046022] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x4e1f, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:42:03.130 plugin-container[17930:1046022] Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 3: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 3: unreachable code after return statement
+[GFX1-]: Failed to create a SkiaGL DrawTarget, falling back to software
+
+JavaScript error: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 11: TypeError: this.sendManager is undefined
+1499128936932	Marionette	INFO	New connections will no longer be accepted
+1499128995641	geckodriver	INFO	Listening on 127.0.0.1:62406
+1499128996681	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1499128999076	Marionette	INFO	Listening on port 62416
+1499128999179	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-07-03 17:43:19.631 plugin-container[17941:1047705] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x4e4f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:43:19.631 plugin-container[17941:1047705] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9813, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:43:19.632 plugin-container[17941:1047705] Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+[GFX1-]: Failed to create a SkiaGL DrawTarget, falling back to software
+
+1499129008596	Marionette	INFO	New connections will no longer be accepted
+[Child 17941] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 702
+1499129008816	geckodriver	INFO	Listening on 127.0.0.1:62641
+1499129009832	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1499129011715	Marionette	INFO	Listening on port 62650
+1499129011820	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-07-03 17:43:32.225 plugin-container[17946:1048446] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9953, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:43:32.226 plugin-container[17946:1048446] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x4d1b, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:43:32.226 plugin-container[17946:1048446] Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 3: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 3: unreachable code after return statement
+[GFX1-]: Failed to create a SkiaGL DrawTarget, falling back to software
+
+IPDL protocol error: unknown union type
+[Child 17946] ###!!! ABORT: IPDL error [PLayerTransactionChild]: "unknown union type". abort()ing as a result.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/ProtocolUtils.cpp, line 302
+[Child 17946] ###!!! ABORT: IPDL error [PLayerTransactionChild]: "unknown union type". abort()ing as a result.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/ProtocolUtils.cpp, line 302
+[Parent 17945] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 702
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x2C0085,name=PBrowser::Msg_Destroy) Channel error: cannot send/recv
+
+1499129043942	geckodriver	INFO	Listening on 127.0.0.1:62830
+1499129044975	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1499129047021	Marionette	INFO	Listening on port 62840
+1499129047085	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-07-03 17:44:07.564 plugin-container[17957:1049241] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9543, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:44:07.564 plugin-container[17957:1049241] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x4d2f, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:44:07.564 plugin-container[17957:1049241] Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 3: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 3: unreachable code after return statement
+[GFX1-]: Failed to create a SkiaGL DrawTarget, falling back to software
+
+JavaScript error: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 11: TypeError: this.sendManager is undefined
+1499129061323	Marionette	INFO	New connections will no longer be accepted
+1499129088493	geckodriver	INFO	Listening on 127.0.0.1:63230
+1499129089527	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1499129094215	geckodriver	INFO	Listening on 127.0.0.1:63267
+1499129095235	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1499129097185	Marionette	INFO	Listening on port 63276
+1499129097243	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-07-03 17:44:57.741 plugin-container[17965:1050860] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9543, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:44:57.742 plugin-container[17965:1050860] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9547, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:44:57.742 plugin-container[17965:1050860] Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 3: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 3: unreachable code after return statement
+[GFX1-]: Failed to create a SkiaGL DrawTarget, falling back to software
+
+JavaScript error: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 5: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+JavaScript error: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 5: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+JavaScript error: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 5: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+JavaScript error: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 5: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+JavaScript error: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 5: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+JavaScript error: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 5: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+JavaScript error: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 5: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+JavaScript error: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 5: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+JavaScript error: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 5: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+JavaScript error: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 5: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+1499129114673	Marionette	INFO	New connections will no longer be accepted
+[Child 17965] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 702
+[Child 17965] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 702
+1499129114922	geckodriver	INFO	Listening on 127.0.0.1:63755
+1499129115926	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1499129117809	Marionette	INFO	Listening on port 63765
+1499129117905	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-07-03 17:45:18.293 plugin-container[17971:1052027] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9543, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:45:18.294 plugin-container[17971:1052027] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9d23, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:45:18.294 plugin-container[17971:1052027] Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1499129139235	Marionette	INFO	New connections will no longer be accepted
+1499129139448	geckodriver	INFO	Listening on 127.0.0.1:64126
+1499129140476	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1499129142313	Marionette	INFO	Listening on port 64135
+1499129142368	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-07-03 17:45:42.865 plugin-container[17975:1052775] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9643, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:45:42.865 plugin-container[17975:1052775] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x4e2b, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:45:42.865 plugin-container[17975:1052775] Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+[GFX1-]: Failed to create a SkiaGL DrawTarget, falling back to software
+
+1499129212146	Marionette	INFO	New connections will no longer be accepted
+[Child 17975] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 702
+[Child 17975] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 702
+1499129212393	geckodriver	INFO	Listening on 127.0.0.1:64421
+1499129213410	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1499129215286	Marionette	INFO	Listening on port 64431
+1499129215392	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-07-03 17:46:55.788 plugin-container[17982:1053879] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9653, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:46:55.788 plugin-container[17982:1053879] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x4e13, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:46:55.788 plugin-container[17982:1053879] Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 3: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 3: unreachable code after return statement
+[GFX1-]: Failed to create a SkiaGL DrawTarget, falling back to software
+
+JavaScript error: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 11: TypeError: this.sendManager is undefined
+1499129225221	Marionette	INFO	New connections will no longer be accepted
+1499129225439	geckodriver	INFO	Listening on 127.0.0.1:64663
+1499129226467	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1499129228320	Marionette	INFO	Listening on port 64673
+1499129228368	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-07-03 17:47:08.859 plugin-container[17987:1054731] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9853, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:47:08.860 plugin-container[17987:1054731] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x4d1b, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:47:08.860 plugin-container[17987:1054731] Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+[GFX1-]: Failed to create a SkiaGL DrawTarget, falling back to software
+
+1499129238356	Marionette	INFO	New connections will no longer be accepted
+1499129238525	geckodriver	INFO	Listening on 127.0.0.1:64908
+1499129239559	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1499129241454	Marionette	INFO	Listening on port 64918
+1499129241538	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-07-03 17:47:21.970 plugin-container[17991:1055424] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9543, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:47:21.970 plugin-container[17991:1055424] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x4f0f, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:47:21.970 plugin-container[17991:1055424] Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+[GFX1-]: Failed to create a SkiaGL DrawTarget, falling back to software
+
+1499129251961	Marionette	INFO	New connections will no longer be accepted
+1499129252196	geckodriver	INFO	Listening on 127.0.0.1:65144
+1499129253265	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1499129255201	Marionette	INFO	Listening on port 65155
+1499129255263	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-07-03 17:47:35.737 plugin-container[17998:1056211] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9537, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:47:35.738 plugin-container[17998:1056211] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x4f1b, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-03 17:47:35.738 plugin-container[17998:1056211] Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 3: unreachable code after return statement
+JavaScript warning: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 3: unreachable code after return statement
+JavaScript error: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 5: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+JavaScript error: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 5: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+JavaScript error: https://www.cmbestsrv.com/vpaid/vPlayer/player/v6.2.8/OvaMediaPlayer.js, line 5: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
